@@ -1,0 +1,22 @@
+{
+  "name": "juh-science-scaling",
+  "version": "1.0.0",
+  "title": "Juh's Science Scaling",
+  "author": "juh9870",
+  "homepage": "https://github.com/juh9870/factorio-science-scaling",
+  "description": "Science scaling for 248k+k2so run",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age",
+    "Krastorio2-spaced-out",
+    "(?) 248k-Redux-juh-temporary-fork"
+  ],
+  "quality_required": false,
+  "rail_bridges_required": false,
+  "space_travel_required": false,
+  "spoiling_required": false,
+  "freezing_required": false,
+  "segmented_units_required": false,
+  "expansion_shaders_required": false
+}
